@@ -54,9 +54,8 @@ prev.addEventListener('click', function(){
     tab[imageNum].classList.add("visible");
 })
     
-    //kalkulator
     
-    /*DODATKOWE*/
+    //kalkulator
 var arrows = document.querySelectorAll(".form .drop_down_list .list_arrow");
     
 
